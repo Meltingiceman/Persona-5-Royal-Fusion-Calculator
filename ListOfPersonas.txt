@@ -1,0 +1,232 @@
+1	Arsene	Fool	2	2	2	3	1	-	-	-	wk	-	-	-	-	wk	rs 
+2	Jack-o'-Lantern	Magician	2	3	3	3	2	-	-	ab	wk	-	wk	-	-	-	-
+2	Pixie	Lovers	1	3	3	4	2	-	wk	-	wk	rs	-	-	-	rs	wk
+3	Agathion	Chariot	3	4	5	7	3	-	rs	-	-	rs	wk	-	-	-	-
+3	Mandrake	Death	2	3	3	4	4	-	-	wk	-	rs	-	-	-	-	-
+4	Bicorn	Hermit	5	3	3	5	3	-	-	-	-	wk	-	-	-	-	rs
+5	Cait Sith	Magician	6	4	4	5	3	-	-	-	-	rs	wk	-	-	-	-
+5	Incubus	Devil	4	6	4	5	3	-	-	wk	-	rs	-	-	-	wk	-
+6	Kelpie	Strength	5	5	5	6	4	-	-	-	rs	wk	-	-	-	-	-
+6	Saki Mitama	Lovers	4	6	5	6	4	-	-	-	rs	-	wk	-	-	-	-
+6	Silky	Priestess	4	7	4	5	5	-	-	wk	rs	wk	-	-	-	-	-
+7	Genbu	Temperance	5	6	7	6	4	-	-	-	nu	wk	-	rs	-	-	-
+7	Succubus	Moon	4	7	5	8	4	-	-	rs	-	-	wk	-	-	wk	nu
+8	Obariyon	Fool	7	3	9	8	4	rs	-	-	-	wk	-	-	-	-	-
+9	Angel	Justice	6	9	5	9	5	-	wk	-	-	rs	-	-	-	nu	wk
+9	Berith	Hierophant	9	6	8	8	3	-	nu	rs	wk	-	-	-	-	-	-
+9	Hua Po	Hanged_Man	4	10	4	8	8	-	wk	rp	wk	-	-	-	-	-	-
+9	Koropokkuru	Hermit	5	8	6	9	6	-	-	wk	rs	-	rs	-	-	-	-
+9	Mokoi	Death	9	5	6	10	4	-	-	-	-	rs	wk	-	-	-	-
+10	Regent!	Emperor	10	10	10	10	10	rs	rs	-	-	-	-	-	wk	-	- -1 1 -1 -1 2 1 -1 1 1 2 1 -1 1 1 -1 -2 -1 1 -1 1 -1 -1 1
+10	Slime	Chariot	9	6	11	6	5	rs	rs	wk	-	-	wk	-	-	-	-
+11	Apsaras	Priestess	7	11	6	10	6	-	-	wk	rs	wk	-	-	-	-	-
+11	Jack Frost	Magician	8	9	7	9	7	-	-	wk	nu	-	-	-	-	-	-
+11	Kodama	Star	7	11	8	10	4	-	-	wk	rs	-	-	-	-	-	-
+11	Koppa Tengu	Temperance	7	8	8	11	6	-	-	-	wk	-	rs	-	-	wk	-
+11	Orpheus F*	Fool	8	9	8	9	6	-	-	-	-	wk	-	-	-	rs	wk
+12	Kusi Mitama	Councillor	7	11	9	8	8	-	-	wk	-	-	rs	-	-	-	-
+12	Onmoraki	Moon	9	12	7	10	5	-	-	rs	wk	-	-	-	-	wk	nu
+13	Ame-no-Uzume	Lovers	7	10	9	11	9	-	-	ab	-	-	-	wk	-	-	-
+13	Ippon-Datara	Hermit	11	7	14	6	8	-	rs	rs	wk	-	rp	-	-	rs	rs
+13	Orpheus F Picaro*	Fool	9	11	9	10	7	-	-	-	-	wk	-	-	-	rs	wk
+14	Archangel	Justice	11	9	10	12	7	-	-	-	-	wk	-	-	-	nu	wk
+14	Inugami	Hanged_Man	11	9	9	12	8	-	nu	nu	-	-	wk	-	-	-	nu
+15	Makami	Temperance	13	12	8	11	8	-	nu	-	-	wk	rs	-	rs	nu	-
+15	Queen's Necklace!	Empress	15	15	15	15	15	rs	rs	-	-	-	-	wk	-	-	- 1 -1 1 2 -1 -1 1 -1 -1 -1 -1 1 1 -1 1 1 -2 -1 2 -1 -1 1 1
+15	Shiisaa	Strength	10	11	11	11	9	rs	-	-	-	-	-	wk	-	nu	wk
+16	Eligor	Emperor	12	10	13	10	10	-	-	rs	-	wk	-	-	-	-	rs
+16	High Pixie	Fool	8	14	10	13	10	-	wk	-	-	rs	rs	-	wk	-	-
+16	Suzaku	Sun	9	12	10	15	9	-	-	ab	wk	-	-	-	rs	-	-
+16	Kaguya*	Moon	11	15	12	11	6	-	-	wk	-	-	rs	-	-	nu	nu
+17	Matador	Death	11	13	10	16	8	-	-	-	-	wk	nu	-	-	-	-
+17	Nekomata	Magician	13	10	12	15	8	-	-	-	-	wk	-	rs	-	-	-
+17	Orobas	Hierophant	11	14	15	12	6	-	-	-	wk	-	rs	-	-	-	rs
+17	Sudama	Hermit	9	14	12	13	10	-	-	-	wk	-	rp	-	wk	-	-
+18	Black Ooze	Moon	15	7	16	8	15	rs	rs	-	rs	wk	-	wk	-	wk	nu
+18	Shiki-Ouji	Chariot	16	14	12	9	10	nu	nu	-	-	-	-	-	wk	nu	nu
+19	*Flauros	Devil	15	11	13	14	11	-	-	nu	wk	-	rs	-	rs	-	-
+19	Leanan Sidhe	Lovers	9	17	12	16	10	-	-	wk	-	-	rs	rs	-	-	-
+20	Nue	Death	16	10	17	14	10	-	-	wk	rs	-	-	-	-	-	nu
+20	Oni	Strength	19	9	17	12	10	rs	rs	-	-	-	-	-	-	-	-
+20	Stone of Scone!	Fortune	20	20	20	20	20	rs	rs	wk	-	-	-	-	-	-	- -1 2 -1 -1 1 1 -1 1 -1 -1 2 1 -1 1 -1 -1 1 1 -2 -1 1 1 1
+20	Yaksini	Empress	14	11	13	16	13	-	nu	-	rs	-	-	-	wk	-	-
+20	Izanagi*	Fool	14	13	13	14	13	-	-	-	-	rs	wk	-	-	-	nu
+21	Orthrus	Hanged_Man	16	14	14	19	7	-	-	ab	wk	-	-	-	rs	-	-
+21	Phoenix	Faith	12	15	15	17	11	-	-	-	rs	wk	nu	-	-	-	-
+22	Jikokuten	Temperance	18	11	16	15	13	rs	-	-	-	-	-	-	-	rs	wk
+22	Nigi Mitama	Councillor	13	15	15	16	14	-	-	-	-	wk	-	-	-	rs	rs
+23	Fuu-Ki	Star	14	17	16	15	14	-	rs	-	-	wk	ab	-	-	-	-
+23	Sandman	Magician	11	13	14	17	21	-	-	wk	-	wk	rs	-	-	-	-
+23	Izanagi Picaro*	Fool	16	15	15	16	14	-	-	-	-	nu	wk	-	-	-	nu
+24	Naga	Hermit	15	17	15	17	15	-	rs	-	-	nu	wk	-	-	-	-
+24	Rakshasa	Strength	20	15	18	17	9	rs	nu	rs	-	-	wk	-	-	wk	rs
+24	Sui-Ki	Moon	16	15	15	18	15	-	rs	-	ab	rs	-	-	wk	-	-
+25	Anzu	Hierophant	14	18	15	21	14	-	wk	-	-	rs	rp	-	wk	-	-
+25	Kin-Ki	Chariot	21	13	21	15	12	rs	rp	-	-	-	-	-	-	-	-
+25	Koh-i-Noor!	Priestess	25	25	25	25	25	rs	wk	-	-	-	-	-	-	-	- 1 -1 2 1 -1 -2 1 -1 2 1 -1 1 -1 1 -1 1 1 -1 -1 1 -1 1 1
+25	Setanta	Emperor	19	16	18	13	16	-	rs	-	-	-	-	wk	rs	-	-
+25	Kaguya Picaro*	Moon	17	20	19	15	11	-	-	wk	-	-	-	-	-	nu	nu
+26	Isis	Priestess	14	20	17	18	16	-	-	-	-	-	-	wk	-	nu	-
+26	Lamia	Empress	21	15	18	19	12	-	-	-	wk	rs	-	-	wk	-	nu
+26	Take-Minakata	Hanged_Man	17	19	18	16	15	-	-	-	-	rs	-	wk	-	-	rs
+26	Orpheus*	Fool	17	17	17	17	17	-	-	-	-	wk	-	-	-	rs	wk
+27	Andras	Devil	15	19	19	21	14	-	-	wk	rs	-	-	rs	-	wk	nu
+27	Clotho	Fortune	14	19	18	20	17	-	-	-	wk	-	nu	-	wk	-	-
+27	Tam Lin	Faith	21	16	18	16	17	rs	-	nu	-	-	rs	-	-	ab	wk
+28	Choronzon	Magician	16	19	19	18	19	rs	-	ab	-	-	-	-	-	wk	-
+28	Pisaca	Death	19	21	21	16	14	-	-	wk	-	rs	-	-	-	wk	nu
+29	Principality	Justice	17	19	18	21	19	-	-	rs	-	-	-	-	-	nu	wk
+29	Orpheus Picaro*	Fool	19	19	19	19	19	-	-	-	-	wk	-	-	-	rs	wk
+30	Ara Mitama	Chariot	20	18	20	20	19	rs	-	-	wk	-	-	-	-	-	-
+30	*Neko Shogun	Star	19	20	19	21	18	rs	-	-	-	rs	wk	-	-	nu	rs
+30	Orlov!	Strength	30	30	30	30	30	rs	rs	-	-	-	-	-	-	-	wk -1 1 1 1 -1 -1 -1 1 -2 -1 1 2 1 -1 1 -1 -1 2 1 1 -1 -1 -1
+30	Ariadne*	Fortune	23	19	20	17	18	-	rs	-	-	-	-	wk	nu	rs	-
+31	Kurama Tengu	Hermit	20	19	21	24	16	-	-	-	nu	-	rp	-	-	rs	rs
+31	Zouchouten	Strength	22	19	24	18	17	rs	-	-	-	-	wk	-	-	-	-
+32	Decarabia	Councillor	21	23	19	22	18	wk	-	rp	-	-	-	-	rs	-	rs
+32	Lilim	Devil	17	23	18	25	20	-	-	-	rs	-	wk	-	-	wk	nu
+33	Mithra	Temperance	19	26	19	24	18	-	-	-	nu	wk	-	-	-	nu	-
+33	Mothman	Moon	21	24	16	24	21	-	wk	-	-	nu	-	rs	-	-	-
+34	Anubis	Judgement	19	24	22	21	23	-	rs	-	-	-	-	rs	-	nu	nu
+34	Thunderbird	Sun	17	24	24	26	18	-	-	-	-	ab	-	wk	-	-	wk
+35	Arahabaki	Hermit	21	23	22	24	22	rp	rp	-	-	-	-	wk	wk	rs	rs
+35	Emperor's Amulet!	Hanged_Man	35	35	35	35	35	rs	rs	-	-	wk	-	-	-	-	- -1 1 -1 1 1 -1 -1 -2 1 1 -1 1 2 -1 1 2 1 -1 -1 -1 1 1 1
+35	Lachesis	Fortune	18	26	22	25	21	-	-	-	nu	wk	rs	-	-	-	-
+36	Kaiwan	Star	23	26	24	22	20	-	nu	-	-	-	-	nu	wk	-	-
+36	Thoth	Emperor	21	28	21	24	21	-	-	-	-	-	-	wk	nu	nu	rs
+37	Belphegor	Tower	25	27	24	23	19	-	-	wk	rs	rs	-	-	rs	-	rp
+37	Hell Biker	Death	23	24	24	30	17	-	-	rp	-	-	rs	-	-	wk	-
+38	Legion	Fool	24	24	30	23	20	rs	-	rs	-	-	-	rs	-	wk	nu
+38	White Rider	Chariot	22	21	26	27	25	-	-	nu	wk	-	-	-	-	nu	rp
+39	Atropos	Fortune	23	30	22	27	22	-	-	wk	-	-	nu	-	-	-	-
+39	Mithras	Sun	27	25	27	25	20	rs	rs	ab	-	-	-	wk	nu	-	-
+39	Unicorn	Faith	20	27	25	28	24	-	-	-	nu	-	-	rs	-	nu	wk
+40	Daisoujou	Hierophant	21	33	24	24	25	rs	-	-	-	-	-	-	-	nu	wk
+40	Hariti	Empress	21	32	24	23	27	-	-	-	-	-	wk	rs	-	rs	-
+40	Hope Diamond!	Death	40	40	40	40	40	rs	rs	-	wk	-	-	-	-	-	- 1 1 1 -1 1 -1 -2 -1 -1 1 1 -1 -1 2 -1 -1 -1 1 -1 2 -1 1 1
+40	Kikuri-Hime	Priestess	22	31	24	28	22	-	-	wk	-	-	nu	-	-	rs	-
+41	Power	Justice	30	26	28	25	21	-	-	-	-	-	rs	-	-	nu	wk
+41	Red Rider	Tower	26	27	25	29	23	-	-	-	-	-	-	-	-	wk	nu
+42	Hecatoncheires	Hanged_Man	35	22	27	23	26	-	rs	-	-	-	-	-	-	wk	nu
+42	Kumbhanda	Hermit	25	30	25	27	26	-	-	nu	-	-	-	wk	-	-	rs
+42	Kushinada-Hime	Lovers	24	30	26	28	25	-	-	-	wk	-	-	-	wk	rp	-
+42	Ose	Fool	32	24	25	31	21	-	nu	rs	-	-	-	-	-	wk	nu
+42	Ariadne Picaro*	Fortune	36	23	29	24	21	-	rs	-	-	-	-	wk	nu	rs	-
+43	Girimehkala	Moon	32	24	32	29	19	rp	rp	rs	-	-	-	-	-	wk	nu
+43	Queen Mab	Magician	23	35	26	30	22	-	-	nu	-	rs	wk	-	-	-	-
+43	Yurlungur	Sun	26	29	30	27	24	-	-	-	-	nu	-	wk	-	rs	-
+44	Ananta	Councillor	26	30	31	27	25	-	-	-	ab	wk	-	-	-	-	-
+44	Valkyrie	Strength	33	24	28	29	25	-	rs	wk	rp	-	-	-	-	nu	-
+44	Magatsu-Izanagi*	Tower	37	35	32	25	10	-	rs	-	-	-	-	-	wk	nu	nu
+45	Byakko	Temperance	35	28	30	32	17	-	-	wk	ab	-	-	-	wk	-	rs
+45	Pazuzu	Devil	29	33	27	26	27	-	-	-	-	-	rs	-	-	wk	nu
+46	Fortuna	Fortune	23	32	29	34	27	-	-	nu	-	wk	nu	-	-	-	-
+46	Athena*	Chariot	33	27	29	29	27	rs	nu	-	-	wk	-	-	-	-	-
+47	Horus	Sun	30	32	29	35	22	-	-	wk	-	nu	-	-	-	rp	-
+48	Narcissus	Lovers	27	31	29	33	31	-	-	wk	-	nu	rs	-	-	rs	-
+48	Rangda	Magician	28	34	30	33	26	rp	rp	nu	-	wk	-	-	-	wk	nu
+48	Magatsu-Izanagi Picaro*	Tower	40	38	35	27	11	-	rs	-	-	-	-	-	wk	nu	nu
+49	*Bugs	Fool	35	33	30	32	24	-	-	-	-	-	-	rs	wk	-	nu
+49	Koumokuten	Hermit	37	29	34	29	25	rs	-	-	wk	-	-	-	-	rs	-
+50	Crystal Skull!	Fool	50	50	50	50	50	rs	rs	-	-	-	wk	-	-	-	- 2 1 1 1 -1 -1 1 -1 1 -2 -1 -1 -1 1 2 -1 -1 1 -1 1 -1 1 1
+50	Dakini	Empress	34	32	34	28	29	-	nu	rs	-	-	-	-	-	-	-
+50	Sarasvati	Priestess	30	35	32	33	27	-	-	-	nu	rs	-	-	wk	-	-
+50	Athena Picaro*	Chariot	35	30	31	32	29	rs	nu	-	-	wk	-	-	-	-	-
+50	Tsukiyomi*	Moon	38	32	33	37	17	rs	-	-	-	-	-	-	wk	rs	rp
+51	Jatayu	Hanged_Man	31	34	29	36	30	-	-	-	rs	-	rp	-	wk	rs	-
+51	*Seth	Tower	32	35	30	35	28	-	-	rp	-	-	nu	-	-	wk	rs
+52	Barong	Emperor	33	35	33	37	25	-	rs	-	-	rs	wk	-	-	nu	wk
+52	Garuda	Star	30	36	29	39	29	-	-	-	-	-	rs	-	-	rp	-
+52	Mishaguji	Hierophant	32	32	32	32	35	rs	-	-	wk	nu	-	-	-	-	ab
+52	Norn	Fortune	30	38	33	34	28	-	-	-	-	rp	ab	-	-	rs	-
+53	Ganesha	Sun	39	31	37	33	26	rs	rs	-	-	-	ab	wk	-	-	-
+53	Skadi	Priestess	33	39	32	34	28	-	-	-	rp	-	-	-	-	-	nu
+54	Okuninushi	Faith	39	35	33	32	30	-	-	-	-	rp	wk	nu	wk	-	-
+54	Pale Rider	Death	32	37	33	40	27	-	-	-	-	-	rs	-	-	wk	rp
+55	Cerberus	Chariot	39	35	32	39	27	-	-	ab	wk	-	-	-	rs	-	-
+55	Raja Naga	Temperance	33	37	36	35	31	-	-	-	-	nu	-	-	-	-	-
+55	Tsukiyomi Picaro*	Moon	41	35	36	40	20	rs	-	-	-	-	-	-	wk	rs	rp
+56	Parvati	Lovers	33	39	33	39	31	-	-	-	rp	-	-	rs	-	rs	wk
+56	Titania	Empress	32	40	35	38	30	-	-	-	-	-	-	wk	rs	rs	rs
+56	Asterius*	Fortune	43	43	32	32	25	-	-	rs	wk	-	-	rs	-	-	nu
+57	Yatagarasu	Councillor	35	41	30	40	32	-	-	-	-	-	rs	-	-	nu	wk
+58	Baphomet	Devil	34	42	36	38	31	-	-	rs	-	-	-	-	-	wk	nu
+58	Melchizedek	Justice	37	32	40	39	33	-	-	-	-	-	wk	rs	-	ab	nu
+59	Black Rider	Tower	36	42	34	42	30	-	-	wk	ab	-	-	-	-	rs	rs
+59	*Trumpeter	Judgement	33	42	40	38	31	-	-	-	ab	rp	-	-	-	rp	nu
+60	Lilith	Moon	33	43	37	39	35	-	-	wk	rp	-	-	-	rp	-	nu
+60	Moloch	Hanged_Man	32	45	42	31	37	-	-	ab	wk	rs	rs	ab	-	-	nu
+60	Orichalcum!	Faith	60	60	60	60	60	rs	rs	-	-	-	-	-	-	wk	- 1 -2 1 1 -1 2 -1 -1 1 -1 1 -1 1 1 -1 1 -1 1 -1 1 1 2 1
+61	King Frost	Emperor	40	44	43	29	34	-	-	-	ab	-	-	-	-	nu	-
+62	Chernobog	Death	40	37	39	38	39	-	rs	wk	ab	nu	-	-	-	wk	ab
+62	Seiryu	Councillor	38	41	43	37	34	-	-	-	rs	-	-	-	wk	-	-
+62	Asterius Picaro*	Fortune	46	46	36	36	29	-	-	rs	wk	-	-	rs	-	-	nu
+63	Forneus	Magician	41	39	40	42	34	-	-	-	ab	wk	-	nu	-	-	-
+63	Kali	Empress	43	41	39	39	34	-	rp	nu	-	-	-	rp	-	-	rs
+64	Hanuman	Strength	43	38	40	40	38	-	rs	-	wk	-	-	rs	-	rs	-
+64	Thor	Chariot	44	39	43	38	35	rs	-	-	-	nu	-	-	-	rs	rs
+64	Yamata-no-Orochi	Judgement	44	38	48	36	33	rs	-	-	ab	-	rs	-	-	-	rs
+65	Atavaka	Faith	51	36	43	38	34	rs	nu	rp	-	-	-	-	-	-	rs
+65	Thanatos*	Death	43	49	41	38	31	rs	-	-	-	-	-	-	-	wk	rp
+66	Oberon	Emperor	40	45	42	43	35	-	-	-	-	rs	-	nu	wk	-	-
+66	Quetzalcoatl	Sun	41	46	41	43	34	-	-	nu	-	-	rs	wk	-	-	-
+67	Bishamonten	Hierophant	51	37	42	44	34	-	-	ab	wk	-	-	-	-	rs	rs
+67	*Black Frost	Fool	44	46	41	42	35	-	-	rp	ab	-	-	-	nu	-	rp
+68	Dominion	Justice	42	45	43	44	37	-	-	-	-	wk	-	-	rp	nu	rs
+68	*Vasuki	Star	42	45	44	42	38	-	-	-	nu	nu	-	-	-	-	wk
+69	Lakshmi	Fortune	39	49	41	47	38	-	-	wk	rs	-	-	-	-	rs	-
+69	Thanatos Picaro*	Death	45	51	43	40	35	rs	-	-	-	-	-	-	-	wk	rp
+70	Biyarky	Moon	42	49	43	51	32	-	-	nu	wk	-	nu	-	wk	-	nu
+70	Loa	Hermit	45	47	43	46	39	-	-	rs	-	nu	-	wk	rs	wk	-
+71	Dionysus	Councillor	42	48	44	42	44	-	-	-	-	rp	-	-	-	nu	nu
+72	Mot	Death	43	51	48	42	39	-	rs	-	-	ab	wk	-	-	-	rp
+72	Throne	Justice	42	49	43	46	43	-	-	nu	-	-	nu	-	wk	rp	-
+73	Macabre	Hanged_Man	48	49	42	48	39	-	-	-	-	rs	-	-	-	wk	nu
+73	Mara	Tower	51	43	43	45	44	-	nu	ab	-	-	-	rp	-	rs	nu
+74	Chimera	Strength	51	40	42	48	48	-	-	ab	nu	-	wk	-	-	-	wk
+74	Nebiros	Devil	45	52	44	46	42	-	-	-	-	-	-	nu	-	wk	rs
+75	Abaddon	Judgement	51	42	58	38	43	ab	ab	-	-	-	-	-	-	rs	ab
+75	Sandalphon	Moon	46	51	49	48	38	rs	rs	-	-	-	-	-	-	rp	nu
+76	*Asura	Sun	52	48	51	49	35	-	-	nu	-	-	-	wk	rp	-	-
+76	Cu Chulainn	Faith	55	44	46	48	42	rs	rs	-	-	wk	rp	-	-	nu	-
+76	*Kohryu	Hierophant	43	51	50	53	38	-	-	-	-	rp	-	nu	wk	nu	-
+76	Raoul*	Fool	47	49	43	54	42	-	-	-	-	-	-	-	-	wk	nu
+77	Gabriel	Temperance	43	51	48	54	42	-	-	-	-	-	-	nu	-	ab	-
+77	Scathach	Priestess	48	52	46	48	44	-	-	-	nu	rp	-	-	-	-	nu
+78	Raphael	Lovers	57	45	49	55	35	-	-	-	ab	-	-	nu	-	nu	-
+80	*Sraosha	Star	47	56	45	56	43	-	-	-	-	ab	-	-	-	rp	wk
+80	Vohu Manah	Councillor	46	59	45	56	41	-	-	-	-	rs	wk	-	-	ab	nu
+80	Zaou-Gongen	Strength	57	45	50	56	39	-	-	rp	-	wk	-	-	-	nu	nu
+80	*Izanagi-no-Okami*	World	52	56	46	48	45	rs	rs	rs	rs	rs	rs	rs	rs	-	-
+81	Alilat	Empress	45	54	57	49	45	rp	rp	wk	ab	-	-	nu	-	-	wk
+81	Uriel	Justice	50	54	49	55	42	-	-	nu	-	-	-	-	ab	rp	-
+81	Messiah*	Judgement	50	50	50	50	50	-	-	rs	rs	rs	rs	rs	rs	rp	wk
+82	Attis	Hanged_Man	49	50	48	54	52	-	-	nu	-	-	rp	-	-	-	wk
+82	Baal	Emperor	54	58	53	47	41	-	-	rs	-	-	ab	-	-	rs	-
+82	Belial	Devil	52	53	51	48	49	nu	-	-	rs	-	-	-	-	-	nu
+82	Shiva	Judgement	55	54	53	53	38	-	-	-	nu	rp	-	ab	wk	nu	nu
+83	Alice	Death	45	61	49	54	47	-	-	-	-	-	-	rs	rs	wk	rp
+83	Cybele	Priestess	44	57	49	51	55	-	-	rs	-	wk	-	-	-	nu	-
+83	Surt	Magician	55	54	51	50	46	-	rs	ab	wk	nu	-	-	rs	-	-
+83	Vishnu	Fool	56	51	49	57	43	-	-	wk	ab	-	-	-	-	nu	nu
+84	Ardha	Temperance	54	56	55	54	40	rs	-	-	nu	nu	-	-	-	-	-
+84	Hastur	Star	51	59	52	56	41	-	-	rs	-	-	ab	nu	-	-	nu
+84	Odin	Emperor	53	58	54	52	42	-	-	-	-	nu	ab	-	-	rp	rp
+84	Siegfried	Faith	61	43	55	55	45	nu	rs	-	rs	nu	-	-	wk	-	-
+85	Ishtar	Lovers	48	59	49	58	48	-	-	-	-	nu	wk	-	-	-	-
+85	Mother Harlot	Empress	55	54	48	50	55	-	-	-	-	rp	-	-	-	wk	nu
+86	Fafnir	Hermit	61	55	58	48	43	rp	rp	ab	-	rs	-	-	ab	-	-
+86	Futsunushi	Magician	60	58	55	52	40	rs	-	-	-	-	-	-	wk	-	-
+87	Beelzebub	Devil	55	61	54	56	42	-	-	ab	-	-	-	-	-	wk	rp
+87	*Michael	Judgement	57	54	55	56	46	-	rs	-	-	-	-	-	-	rp	nu
+87	*Yoshitsune	Tower	63	52	50	54	49	nu	-	rs	-	rp	-	-	-	rp	-
+88	*Chi You	Chariot	56	57	54	53	51	rs	rs	-	-	-	-	nu	wk	-	-
+89	*Metatron	Justice	54	61	60	57	42	-	-	-	-	wk	rp	ab	ab	-	wk
+89	Ongyo-Ki	Hermit	56	53	57	59	49	rs	-	-	-	-	-	-	-	rp	rp
+89	*Izanagi-no-Okami Picaro*	World	54	61	56	58	45	rs	rs	rs	rs	rs	rs	rs	rs	-	-
+90	Mada	Tower	55	54	61	59	48	-	-	ab	wk	-	-	rs	nu	-	-
+90	Messiah Picaro*	Judgement	56	56	55	55	55	-	-	rs	rs	rs	rs	rs	rs	rp	wk
+92	Satan	Judgement	62	59	55	52	55	-	rs	-	rp	-	-	-	-	-	rp
+93	*Lucifer	Star	61	59	59	56	51	nu	nu	rs	rs	rs	rs	-	-	wk	ab
+93	Maria	Faith	52	66	53	54	61	-	-	wk	-	rs	nu	-	-	ab	-
+95	*Satanael	Fool	63	60	57	56	56	rs	rs	rs	rs	rs	rs	rs	rs	nu	ab

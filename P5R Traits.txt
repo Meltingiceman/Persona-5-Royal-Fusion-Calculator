@@ -1,0 +1,76 @@
+Heated_Bloodline	Reduce cost of Fire skills by 50%.
+Frigid_Bloodline	Reduce cost of Ice skills by 50%.
+Electric_Bloodline	Reduce cost of Elec skills by 50%.
+Wind_Bloodline		Reduce cost of Wind skills by 50%.
+Psychic_Bloodline	Reduce cost of Psy skills by 50%.
+Atomic_Bloodline	Reduce cost of Nuke skills by 50%.
+Blessed_Bloodline	Reduce cost of Bless skills by 50%.
+Cursed_Bloodline	Reduce cost of Curse skills by 50%.
+Savior_Bloodline	Reduce cost of Healing skills by 50%.
+Relief_Bloodline	Reduce cost of Support skills by 50%.
+Drunken_Passion		Reduce cost of Fire skills by 75%.
+Cocytus 		Reduce cost of Ice skills by 75%.
+Bargain_Bolts		Reduce cost of Elec skills by 75%.
+Vahana's_Wings		Reduce cost of Wind skills by 75%.
+Chi_You's_Blessing	Reduce cost of Psy skills by 75%.
+Atomic_Hellscape	Reduce cost of Nuke skills by 75%.
+Martyr's_Gift		Reduce cost of Bless skills by 75%.
+Mother's_Lament		Reduce cost of Curse skills by 75%.
+Grace_of_Mother		Reduce cost of Healing skills by 75%.
+Ave_Maria		Reduce cost of Support skills by 75%.
+Just_Die		Reduce cost of instant death skills to 0.
+Allure_of_Wisdom	Reduce cost of magic skills by 75%.
+
+Thermal_Conduct		Increase chance of inflicting Burn after Baton Pass.
+Cold-Blooded		Increase chance of inflicting Freeze during 1 More.
+Static_Electricity	Increase chance of inflicting Shock on downed foes.
+Foul_Odor		Increase chance of inflicting Ailments after Baton Pass.
+Ghost_Nest		Increase chance of inflicting Ailments on downed foes.
+Foul_Stench		Increase chance of inflicting Ailments.
+
+Striking_Weight		Strengthen Physical attacks by 20%.
+Undying_Fury		Strengthen Physical attacks by 30%.
+Intense_Focus		Strengthen single-target magic attacks by 20%.
+Mighty_Gaze		Strengthen multi-target magic attacks by 20%.
+Skillful_Combo		Increase Attack after Baton Pass.
+Linked_Bloodline	Greatly increase Attack after Baton Pass.
+Ailment_Hunter		Increases Attack by 25% per ailment inflicted on foe.
+Deathly_Illness		Increase success rate of Instant Death skills.
+Omen			Greatly increase success rate of Instant Death skills.
+Skillful_Technique	Strengthen Technical damage by 25%.
+Universal_Law		Strengthen Technical damage by 50%.
+Relentless		Increase Attack by 50% when striking foe's weakness.
+Retaliating_Body	Doubles Counter damage.
+Will_of_the_Sword	Triples Charge/Concentrate skill damage.
+Pagan_Allure		Strengthen magic attacks by 50%.
+
+Draining_Mouth		Doubles effect of Drain-type skills and passives.
+Gluttonmouth		Increase amount of HP restored to self by 50%.
+Demon's_Bite		Doubles amount of HP restored to self.
+Mouth_of_Savoring	Increase amount of SP restored to self by 50%.
+Naranari		Doubles amount of SP restored to self.
+Internal_Hypnosis	Increase buff timers by 1 turn for self.
+Positive_Thoughts	Increase buff timers by 2 turns for self.
+Potent_Hypnosis		Increase buff timers by 1 turn for party.
+Wealth_of_Lotus		Increase buff timers by 2 turns for party.
+Rare_Antibody		Reduce susceptibility to all ailments.
+Immunity		Impart immunity against all ailments.
+Bloodstained_Eyes	Increase allies' evasion against foes inflicted with ailments.
+Crisis_Control		Decrease damage received when struck by weakness.
+
+Gloomy_Child		Activates all equipped special weather passives in normal weather.
+Pinch_Anchor		Allows use of ambush-only skills after Baton Pass.
+Vitality_of_the_Tree	Allows use of ambush-only skills under normal conditions.
+
+Circle_of_Sadness	Revives with 1 HP when KO'd. Usable 4 times in battle.	
+Iron_Heart		Decreases SP cost by half after Baton Pass.	
+Hallowed_Spirit		Doubles amount of HP/SP restored to self.	
+God_Maker		Increases chance of triggering ally's Persona traits.	
+Hollow_Jester		Increase Attack by 40% per ailment inflicted on foe.	
+Inviolable_Beauty	Triples Counter damage.
+Tag_Team		Expendable items not used up after Baton Pass.	
+Frenzied_Bull		Increases damage to foes when low on HP.	
+Bolstering_Force	Increases Attack by 50% during 1 More.	
+Grace_of_the_Olive	Decreases HP/SP cost to 0 during 1 More.	
+Country_Maker		Increases Attack/Defense based on Inmate Registry completion.	
+Hazy_Presence		Increases chance of triggering ally's Follow-Up attack.	

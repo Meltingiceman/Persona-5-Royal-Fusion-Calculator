@@ -1,0 +1,413 @@
+Lunge		Light Physical damage to 1 foe.	5% HP	Bicorn*
+Cleave		Light Physical damage to 1 foe.	6% HP	Berith*
+Power_Slash	Medium Physical damage to 1 foe.	10% HP	Berith**
+Assault_Dive	Heavy Physical damage to 1 foe.	13% HP	Bicorn**
+Megaton_Raid	Severe Physical damage to 1 foe.	16% HP	Cerberus*
+Brave_Blade	Colossal Physical damage to 1 foe.	21% HP	Atavaka*
+God's_Hand	Colossal Physical damage to 1 foe.	22% HP	Cerberus**
+Sword_Dance	Colossal Physical damage to 1 foe.	25% HP	Atavaka**
+Giant_Slice	Medium Physical damage to 1 foe (Stronger under Baton Pass).	9% HP	Inugami*
+Rising_Slash	Heavy Physical damage to 1 foe (Stronger under Baton Pass).	14% HP	Inugami** Valkyrie*
+Deadly_Fury	Severe Physical damage to 1 foe (Stronger under Baton Pass).	18% HP	Valkyrie**
+Double_Fangs	Light Physical damage to 1 foe 2x.	10% HP	Shiisaa*
+Kill_Rush	Light Physical damage to 1 foe 1x to 3x.	14% HP	Oni**
+Gatling_Blows	Light Physical damage to 1 foe 3x to 4x.	16% HP
+Tempest_Slash	Minuscule Physical damage to 1 foe 3x to 5x.	17% HP	Dakini*
+Myriad_Slashes	Medium Physical damage to 1 foe 2x to 3x.	20% HP	Dakini**
+Terror_Claw	Light Physical damage and inflict Fear (medium odds) to 1 foe.	8% HP	Kumbhanda*
+Headbutt	Light Physical damage and inflict Forget (medium odds) to 1 foe.	9% HP	Black Ooze*
+Hysterical_Slap	Light Physical damage and inflict Rage (medium odds) to 1 foe.	9% HP	Yaksini*
+Brain_Shake	Light Physical damage and inflict Brainwash (medium odds) to 1 foe.	9% HP	Inugami^
+Sledgehammer	Medium Physical damage and inflict Dizzy (medium odds) to 1 foe.	10% HP	Ippon-Datara*
+Skull_Cracker	Medium Physical damage and inflict Confusion (medium odds) to 1 foe.	10% HP	Nue*
+Negative_Pile	Heavy Physical damage and inflict Despair (medium odds) to 1 foe.	12% HP	Lamia^
+Death_Scythe	Severe Physical damage and inflict Fear (medium odds) to 1 foe.	20% HP	Macabre**
+Lucky_Punch	Minuscule Physical damage to 1 foe with high critical rate.	8% HP	Obariyon*
+Miracle_Punch	Medium Physical damage to 1 foe with high critical rate.	8% HP	Obariyon**
+Cornered_Fang	Medium Physical damage to 1 foe (Stronger when surrounded).	10% HP
+Ayamur		Medium Physical damage to 1 foe 3x with high Accuracy (Unique to Baal).	25% HP
+Laevateinn	Colossal Physical damage to 1 foe (Unique to Loki and Hereward).	25% HP
+Masquerade	Severe Physical damage to 1 foe 2x (Unique to Ella).	25% HP
+Cross_Slash	Heavy Physical damage to 1 foe 2x with high accuracy (Unique to Izanagi).	20% HP
+Beast_Weaver	Colossal Physical damage to 1 foe and user's attack power is greatly reduced (independent from -kaja/-nda effects) (Unique to Ariadne).	20% HP
+Vajra_Blast	Medium Physical damage to all foes.	13% HP	Kin-Ki*
+Vicious_Strike	Medium Physical damage to all foes.	18% HP	Kin-Ki**
+Heat_Wave	Heavy Physical damage to all foes.	20% HP	Oberon*
+Vorpal_Blade	Severe Physical damage to all foes.	23% HP	Oberon**
+Gigantomachia	Colossal Physical damage to all foes.	25% HP	Asterius Picaro*
+Rampage		Light Physical damage to all foes 1x to 3x.	13% HP	Oni*
+Swift_Strike	Minuscule Physical damage to all foes 2x to 4x.	17% HP	Girimehkala*
+Deathbound	Medium Physical damage to all foes 1x to 2x.	22% HP	Girimehkala**
+Agneyastra	Medium Physical damage to all foes 1x to 3x.	24% HP	Asterius Picaro**
+Memory_Blow	Light Physical damage and inflict Forget (low odds) to all foes.	15% HP	Black Ooze**
+Dormin_Rush	Medium Physical damage and inflict Sleep (low odds) to all foes.	16% HP	Incubus**
+Oni-Kagura	Medium Physical damage and inflict Rage (low odds) to all foes.	16% HP	Yaksini**
+Flash_Bomb	Medium Physical damage and inflict Dizzy (low odds) to all foes.	19% HP	Ippon-Datara**
+Bad_Beat	Medium Physical damage and inflict Despair (low odds) to all foes.	21% HP
+Bloodbath	Heavy Physical damage and inflict Fear (low odds) to all foes.	22% HP	Rangda* Chernobog^
+Brain_Buster	Heavy Physical damage and inflict Brainwash (low odds) to all foes.	22% HP
+Mind_Slice	Medium Physical damage and inflict Confuse (low odds) to all foes.	19% HP	Mothman
+Hassou_Tobi	Light Physical damage to all foes 8x (Unique to Yoshitsune).	25% HP
+Miracle_Rush	Medium Physical damage to all foes with high critical rate (Unique to Diego).	16% HP
+Akashic_Arts	Severe Physical damage to all foes 1x to 2x, high critical rate (Unique to Athena).	20% HP
+<END>
+
+Snap		Medium Gun damage to 1 foe.	9% HP	Mokoi^
+Double_Shot	Light Gun damage to 1 foe 2x.	12% HP	Shiki-Ouji*
+One-shot_Kill	Severe Gun damage to 1 foe with high critical rate.	17% HP	Cu Chulainn* Yamata-no-Orochi**
+Dream_Needle	Light Gun damage and inflict Sleep (medium odds) to 1 foe.	8% HP	Incubus*
+Triple_Down	Light Gun damage to all foes 3x.	16% HP	Yamata no Orochi* Shiki-Ouji**
+Riot_Gun	Severe Gun damage to all foes.	24% HP	Cu Chulainn**
+<END>
+
+Agi		Light Fire damage to 1 foe.	4 SP	Jack o' Lantern^ Cait Sith*
+Agilao		Medium Fire damage to 1 foe.	8 SP	Orthrus*
+Agidyne		Heavy Fire damage to 1 foe.	12 SP	Decarabia** Orpheus Picaro*
+Inferno		Severe Fire damage to 1 foe.	48 SP	Surt**
+Maragi		Light Fire damage to all foes.	10 SP	Cait Sith**
+Maragion	Medium Fire damage to all foes.	16 SP	Decarabia* Orthrus**
+Maragidyne	Heavy Fire damage to all foes.	22 SP	Surt* Lilith^ Orpheus Picaro**
+Blazing_Hell	Severe Fire damage to all foes.	54 SP
+Titanomachia	Severe Fire damage to all foes and inflict Fear (high odds) (Unique to Asterius).	34 SP
+<END>
+
+Bufu	Light Ice damage to 1 foe.	4 SP	Koropokkuru* Jack Frost^
+Bufula	Medium Ice damage to 1 foe.	8 SP	Sui-Ki*
+Bufudyne	Heavy Ice damage to 1 foe.	12 SP	Baphomet* Belphegor**
+Diamond Dust	Severe Ice damage to 1 foe.	48 SP	Alilat**
+Mabufu	Light Ice damage to all foes.	10 SP	Sui-Ki^ Koropokkuru**
+Mabufula	Medium Ice damage to all foes.	16 SP	Belphegor^ Sui-Ki**
+Mabufudyne	Heavy Ice damage to all foes.	22 SP	Scathach^ Alilat* Baphomet**
+Ice_Age	Severe Ice damage to all foes.	54 SP
+<END>
+
+Zio	Light Electric damage to 1 foe.	4 SP	Agathion*
+Zionga	Medium Electric damage to 1 foe.	8 SP	Take-Minakata* Naga^
+Ziodyne	Heavy Electric damage to 1 foe.	12 SP	Barong*^ Atropos**
+Thunder Reign	Severe Electric damage to 1 foe.	48 SP	Dionysus**
+Mazio	Light Electric damage to all foes.	10 SP	Agathion**
+Mazionga	Medium Electric damage to all foes.	16 SP	Atropos* Thunderbird^ Take-Minakata**
+Maziodyne	Heavy Electric damage to all foes.	22 SP	Dionysus* Barong**
+Wild_Thunder	Severe Electric damage to all foes.	54 SP
+<END>
+
+Garu	Light Wind damage to 1 foe.	3 SP	Kelpie*^
+Garula	Medium Wind damage to 1 foe.	6 SP	Anzu* High Pixie**
+Garudyne	Heavy Wind damage to 1 foe.	10 SP	Garuda* Jatayu^
+Panta_Rhei	Severe Wind damage to 1 foe.	42 SP	Quetzalcoatl**
+Magaru	Light Wind damage to all foes.	8 SP	High Pixie* Ame-no-Uzume^ Kelpie**
+Magarula	Medium Wind damage to all foes.	14 SP	Anzu**
+Magarudyne	Heavy Wind damage to all foes.	20 SP	Garuda^** Quetzalcoatl*
+Vacuum_Wave	Severe Wind damage to all foes.	48 SP
+<END>
+
+Psi	Light Psy damage to 1 foe.	4 SP	Kodama^
+Psio	Medium Psy damage to 1 foe.	8 SP	Kaiwan^ Sudama**
+Psiodyne	Heavy Psy damage to 1 foe.	12 SP	Forneus* Moloch^
+Psycho_Force	Severe Psy damage to 1 foe.	48 SP	Mara**
+Mapsi	Light Psy damage to all foes.	10 SP	Sudama*
+Mapsio	Medium Psy damage to all foes.	16 SP	Kaiwan*
+Mapsiodyne	Heavy Psy damage to all foes.	22 SP	Mara*^ Forneus**
+Psycho_Blast	Severe Psy damage to all foes.	54 SP
+<END>
+
+Frei	Light Nuclear damage to 1 foe.	4 SP	Makami*
+Freila	Medium Nuclear damage to 1 foe.	8 SP	Ara Mitama*
+Freidyne	Heavy Nuclear damage to 1 foe.	12 SP	Titania^ Thoth**
+Atomic_Flare	Severe Nuclear damage to 1 foe.	48 SP	Bishamonten**
+Mafrei	Light Nuclear damage to all foes.	10 SP	Makami**
+Mafreila	Medium Nuclear damage to all foes.	16 SP	Mithras^ Thoth*
+Mafreidyne	Heavy Nuclear damage to all foes.	22 SP	Titania**
+Cosmic_Flare	Severe Nuclear damage to all foes.	54 SP
+<END>
+
+Kouha	Light 	Bless damage to 1 foe.			4 SP	Archangel^
+Kouga	Medium 	Bless damage to 1 foe.			8 SP	Unicorn^
+Kougaon	Heavy 	Bless damage to 1 foe.			12 SP	Horus
+Makouha	Light 	Bless damage to all foes.			10 SP	Anubis
+Makouga	Medium 	Bless damage to all foes.			16 SP	Daisoujou
+Makougaon	Heavy Bless damage to all foes.			22 SP	Dominion*^
+Divine_Judgement	Half remaining HP of 1 foe.			48 SP	Dominion**
+Hama		Small chance of instantly killing 1 foe.			8 SP	Angel^
+Hamaon		Medium chance of instantly killing 1 foe.			15 SP	Anubis^
+Mahama		Small chance of instantly killing all foes.			18 SP	Power^
+Mahamaon	Medium chance of instantly killing all foes.			34 SP	Melchizedek
+Samsara		High chance of instantly killing all foes (Unique to Daisoujo).			44 SP
+Shining_Arrows	Light Bless damage to all foes 4x to 8x (Unique to Kaguya).			22 SP
+<END>
+
+Eiha	Light Curse damage to 1 foe.			4 SP
+Eiga	Medium Curse damage to 1 foe.			8 SP	Choronzon^
+Eigaon	Heavy Curse damage to 1 foe.			12 SP	Nebiros*^
+Maeiha	Light Curse damage to all foes.			10 SP	Choronzon*
+Maeiga	Medium Curse damage to all foes.			16 SP	Pazuzu*
+Maeigaon	Heavy Curse damage to all foes.			22 SP	Thanatos_Picaro* Mara^
+Demonic_Decree	Half remaining HP of 1 foe.			48 SP	Belial**
+Mudo	Small chance of instantly killing 1 foe.			8 SP	Nue^
+Mudoon	Medium chance of instantly killing 1 foe.			15 SP	Girimehkala^
+Mamudo	Small chance of instantly killing all foes.			18 SP
+Mamudoon	Medium chance of instantly killing all foes.			34 SP	Alice
+Die_For_Me!	High chance of instantly killing all foes (Unique to Alice).			44 SP
+Magatsu_Mandala	Heavy Curse damage to all foes and inflict Confuse/Fear/Despair (medium odds) (Unique to Magatsu-Izanagi).			30 SP
+Abyssal_Wings	Severe Curse damage to all foes (Unique to Tsukiyomi).			30 SP
+<END>
+
+Megido		Medium Almighty damage to all foes.			15 SP	Thoth^
+Megidola	Heavy Almighty damage to all foes.			24 SP	Pale_Rider
+Megidolaon	Severe Almighty damage to all foes.			38 SP	Mot^ Black_Rider**
+Life_Drain	Drains HP from 1 foe.			3 SP	Incubus^
+Spirit_Drain	Drains SP from 1 foe.			3 SP	Hariti
+Foul_Breath	Increase susceptibility to all ailments of 1 foe.			8 SP	Mothman
+Stagnant_Air	Increase susceptibility to all ailments of all foes and allies.			5 SP	Black_Ooze
+Ghastly_Wail	Instantly kill all foes under Fear.			28 SP	Skadi^
+Black_Viper	Severe Almighty damage to 1 foe.			48 SP
+Morning_Star	Severe Almighty damage to all foes (Unique to Lucifer).			52 SP
+Abyssal_Eye	Severe Almighty damage to all foes (Unique to Hastur).			50 SP
+Rebellion_Blade	Colossal Almighty damage to one foe, damage increases if foe is downed (Unique to Hereward).			99 SP
+Door_of_Hades	Heavy Almighty damage to all foes with medium chance of instant kill (Unique to Thanatos).			32 SP
+Myriad_Truths	Heavy Almighty damage to all foes x3 (Unique to Izanagi-no-Okami).			40 SP
+<END>
+
+Dazzler		Inflict Dizzy (high odds) to 1 foe.			5 SP	Archangel
+Nocturnal_Flash	Inflict Dizzy (medium odds) to all foes.			12 SP	Narcissus^
+Makajama	Inflict Forget (high odds) to 1 foe.			5 SP	Makami
+Makajamaon	Inflict Forget (medium odds) to all foes.			12 SP	Mothman^
+Dormina		Inflict Sleep (high odds) to 1 foe.			5 SP	Sandman^
+Lullaby		Inflict Sleep (medium odds) to all foes.			12 SP	Lilim
+Phantom_Show	Inflict Sleep (high odds) to all foes (Unique to Raoul).			4 SP
+Pulinpa		Inflict Confuse (high odds) to 1 foe.			5 SP	Mandrake^
+Tentarafoo	Inflict Confuse (medium odds) to all foes.			12 SP
+Evil_Touch	Inflict Fear (high odds) to 1 foe.			5 SP	Black_Ooze^
+Evil_Smile	Inflict Fear (medium odds) to all foes.			12 SP	Decarabia^
+Ominous_Words	Inflict Despair (high odds) to 1 foe.			5 SP	Pisaca (talk)
+Abysmal_Surge	Inflict Despair (medium odds) to all foes.			12 SP	Arahabaki^
+Taunt		Inflict Rage (high odds) to 1 foe.			5 SP	Obariyon, Koppa_Tengu^
+Wage_War	Inflict Rage (medium odds) to all foes.			12 SP	Yaksini^
+Marin_Karin	Inflict Brainwash (high odds) to 1 foe.			5 SP	Lilim^
+Brain_Jack	Inflict Brainwash (medium odds) to all foes.			12 SP
+<END>
+
+Dia		Slightly restore 1 ally's HP.	3 SP	Pixie*^
+Diarama		Moderately restore 1 ally's HP.	6 SP	High_Pixie*^
+Diarahan	Fully restore 1 ally's HP.	18 SP	Norn*^ Kaguya_Picaro*
+Media		Slight restore party's HP.	7 SP
+Mediarama	Moderately restore party's HP.	12 SP	Sarasvati* Kikuri-Hime^
+Mediarahan	Fully restore party's HP.	30 SP	Titania*
+Recarm		Revive 1 ally with 50% HP recovered.	8 SP	Leanan_Sidhe*
+Samarecarm	Revive 1 ally with all HP recovered.	18 SP	Unicorn*
+Baisudi		Cure Burn/Freeze/Shock of 1 ally.	4 SP	Angel
+Mabaisudi	Cure Burn/Freeze/Shock of party.	8 SP
+Patra		Cure Dizzy/Forget/Sleep/Hunger of 1 ally.	4 SP	Genbu* Silky^
+Me_Patra	Cure Dizzy/Forget/Sleep/Hunger of party.	8 SP	Nigi_Mitam*
+Energy_Drop	Cure Confuse/Fear/Despair/Rage/Brainwash of 1 ally.	4 SP	Mandrake*
+Energy_Shower	Cure Confuse/Fear/Despair/Rage/Brainwash of party.	8 SP	Parvati^
+Amrita_Drop	Cure all ailments of 1 ally except for special status.	6 SP	Seiryu*
+Amrita_Shower	Cure all ailments of party except for special status.	12 SP	Scathach^
+Salvation	Fully restore HP and cure all ailments of party except for special status.	48 SP	Ishtar*
+Holy_Benevolence	Revive all allies with all HP recovered (Unique to Maria).	27 SP
+Cadenza		Restore 50% HP of party and increase evasion rate (Unique to Orpheus).	24 SP
+Neo Cadenza	Restore 50% HP of party, increase evasion rate, Attack and Defense (Unique to Orpheus F).	24 SP
+Oratorio	Fully restore party's HP and negate all -nda debuffs (Unique to Messiah).	38 SP
+Champion's_Cup&	Moderately restore 1 ally's HP and increase Attack power for 3 turns.	10 SP
+<END>
+
+Tarukaja	Increase 1 ally's Attack power for 3 turns.	8 SP	Eligor*^
+Rakukaja	Increase 1 ally's Defense for 3 turns.	8 SP	Saki Mitama* Agathion^
+Sukukaja	Increase 1 ally's Agility for 3 turns.	8 SP	Sudama*^
+Heat_Riser	Increase 1 ally's Attack, Defense and Agility for 3 turns.	30 SP	Raphael* Magatsu-Izanagi_Picaro*
+Matarukaja	Increase party's Attack power for 3 turns.	24 SP	Ose
+Marakukaja	Increase party's Defense for 3 turns.	24 SP	Sarasvati^
+Masukukaja	Increase party's Agility for 3 turns.	24 SP	Power* Melchizedek^
+Thermopylae	Increase party's Attack, Defense and Agility for 3 turns if the party is being ambushed.	30 SP	Dionysus*
+Hyakka_Ryouran	Increase party's Attack, Defense and Agility for 3 turns (Unique to Gorokichi).	90 SP
+Tarunda		Decrease 1 foe's Attack power for 3 turns.	8 SP	Slime^
+Rakunda		Decrease 1 foe's Defense for 3 turns.	8 SP	Leanan_Sidhe^
+Sukunda		Decrease 1 foe's Agility for 3 turns.	8 SP	Obariyon^
+Debilitate	Decrease 1 foe's Attack, Defense and Agility for 3 turns.	30 SP	Trumpeter*
+Matarunda	Decrease all foes' Attack power for 3 turns.	24 SP	Rangda^
+Marakunda	Decrease all foes' Defense for 3 turns.	24 SP	Girimehkala*
+Masukunda	Decrease all foes' Agility for 3 turns.	24 SP	Forneus*
+Checkmate	Decrease all foes' Attack, Defense and Agility for 3 turns (Unique to Agnes).	90 SP
+Vault_Guardian&	Increases Defense for all allies for 3 turns and automatic Tetrakarn/Makarakarn at the start of battle.	20 SP
+Gambler's_Foresight&	Increases Agility for all allies for 3 turns, and automatic Concentrate at the start of battle.	20 SP
+<END>
+
+Counter		10% chance of reflecting Physical attacks.	Setanta
+Counterstrike	15% chance of reflecting Physical attacks.	Valkyrie^
+High_Counter	20% chance of reflecting Physical attacks.	Kali^
+
+Fire_Boost	Strengthen Fire attacks by 25%.	Decarabia*
+Ice_Boost	Strengthen Ice attacks by 25%.	Lachesis*
+Elec_Boost	Strengthen Electric attacks by 25%.	Naga*
+Wind_Boost	Strengthen Wind attacks by 25%.	Fuu-Ki*
+Psy_Boost	Strengthen Psy attacks by 25%.
+Nuke_Boost	Strengthen Nuclear attacks by 25%.	Phoenix*
+Bless_Boost	Strengthen (non instant death) Bless attacks by 25%.
+Curse_Boost	Strengthen (non instant death) Curse attacks by 25%.
+Almighty_Boost	Strengthen Almighty attacks by 25%.
+Fire_Amp	Strengthen Fire attacks by 50%.	Surt*
+Ice_Amp		Strengthen Ice attacks by 50%.
+Elec_Amp	Strengthen Electric attacks by 50%.	Oberon*
+Wind_Amp	Strengthen Wind attacks by 50%.	Garuda*
+Psy_Amp		Strengthen Psy attacks by 50%.
+Nuke_Amp	Strengthen Nuclear attacks by 50%.	Moloch*
+Bless_Amp	Strengthen (non instant death) Bless attacks by 50%.
+Curse Amp	Strengthen (non instant death) Curse attacks by 50%.
+Almighty Amp	Strengthen Almighty attacks by 50%.
+Hama_Boost	Increase success rate of instant death by Bless skills.
+Mudo_Boost	Increase success rate of instant death by Curse skills.
+Burn_Boost	Increase chance of inflicting Burn.	Orthrus*
+Freeze_Boost	Increase chance of inflicting Freeze.	Apsaras* Baphomet^
+Shock_Boost	Increase chance of inflicting Shock.	Baphomet*
+Dizzy_Boost	Increase chance of inflicting Dizzy.
+Forget_Boost	Increase chance of inflicting Forget.	Kusi_Mitama*
+Sleep_Boost	Increase chance of inflicting Sleep.	Sandman*
+Confuse_Boost	Increase chance of inflicting Confuse.	Onmoraki*
+Fear_Boost	Increase chance of inflicting Fear.	Kodama*
+Despair_Boost	Increase chance of inflicting Despair.	Lamia*
+Rage_Boost	Increase chance of inflicting Rage.	Kumbhanda*
+Brainwash_Boost	Increase chance of inflicting Brainwash.	Succubus^
+Ailment_Boost	Increase chance of inflicting all ailments.	Dionysus^
+Ambient_Aid	Greatly increase inflicting rate of all status effects under rainy day or special weather warning.
+Adverse_Resolve	Increase critical rate when being ambushed.	Rakshasa^
+Touch_n'_Go	Apply Sukukaja when performing Baton Pass.
+Apt_Pupil	Increase critical rate.		Andras^
+Arms_Master	Half HP cost for physical skills.	Chi_You*
+Spell_Master	Half SP cost for magic skills.	Tsukiyomi_Picaro*
+Kuzunoha_Emblem&	Decreases HP and SP cost of skills by 25%.
+Gun_Boost	Strengthen Gun attacks by 25%.
+Gun_Amp		Strengthen Gun attacks by 50%.	White_Rider**
+Trigger_Happy	Increase critical rate of Gun attacks.
+Fortified_Moxy	Increase critical rate when beginning battle with preemptive turn.
+Magic_Ability	Strengthen all magical attacks by 25%.
+Tyrant's_Mind	Strengthen all attacks, Stacks with passives (Unique to Satanael).
+All-Out_Attack_Boost&	Wearer's All-Out Attack power is boosted.
+Gun_Accuracy_+_5%&	Gun accuracy is increased by 5%.
+
+Resist_Phys	Reduce damage from Physical attacks.
+Resist_Fire	Reduce damage from Fire attacks.
+Resist_Ice	Reduce damage from Ice attacks.
+Resist_Elec	Reduce damage from Electric attacks.
+Resist_Wind	Reduce damage from Wind attacks.
+Resist_Psy	Reduce damage from Psy attacks.
+Resist_Nuke	Reduce damage from Nuclear attacks.
+Resist_Bless	Reduce damage from Bless attacks.
+Resist_Curse	Reduce damage from Curse attacks.
+Null_Bless/Curse&	Impart immunity against Bless and Curse attacks.
+Resist_Dizzy	Reduce susceptibility to Dizzy.
+Resist_Forget	Reduce susceptibility to Forget.
+Resist_Sleep	Reduce susceptibility to Sleep.
+Resist_Confuse	Reduce susceptibility to Confuse.
+Resist_Fear	Reduce susceptibility to Fear.
+Resist_Despair	Reduce susceptibility to Despair.
+Resist_Rage	Reduce susceptibility to Rage.
+Resist_Brainwash	Reduce susceptibility to Brainwash.
+Fortify_Spirit	Reduce susceptibilities to all ailments.
+Null_Phys	Impart immunity against Physical attacks.
+Null_Fire	Impart immunity against Fire attacks.
+Null_Ice	Impart immunity against Ice attacks.
+Null_Elec	Impart immunity against Electric attacks.
+Null_Wind	Impart immunity against Wind attacks.
+Null_Psy	Impart immunity against Psy attacks.
+Null_Nuke	Impart immunity against Nuclear attacks.
+Null_Bless	Impart immunity against Bless attacks.
+Null_Curse	Impart immunity against Curse attacks.
+Null_Dizzy	Impart immunity against Dizzy.
+Null_Forget	Impart immunity against Forget.
+Null_Sleep	Impart immunity against Sleep.
+Null_Confuse	Impart immunity against Confuse.
+Null_Fear	Impart immunity against Fear.
+Null_Despair	Impart immunity against Despair.
+Null_Rage	Impart immunity against Rage.
+Null_Brainwash	Impart immunity against Brainwash.
+Unshaken_Will	Impart immunity against all mental ailments.	Mada*
+Repel_Phys	Repel Physical attacks.
+Repel_Fire	Repel Fire attacks.
+Repel_Ice	Repel Ice attacks.
+Repel_Elec	Repel Electric attacks.
+Repel_Wind	Repel Wind attacks.
+Repel_Psy	Repel Psy attacks.
+Repel_Nuke	Repel Nuclear attacks.
+Repel_Bless	Repel Bless attacks.
+Repel_Curse	Repel Curse attacks.
+Drain_Phys	Absorb Physical attacks.
+Drain_Fire	Absorb Fire attacks.
+Drain_Ice	Absorb Ice attacks.
+Drain_Elec	Absorb Electric attacks.
+Drain_Wind	Absorb Wind attacks.
+Drain_Psy	Absorb Psy attacks.
+Drain_Nuke	Absorb Nuclear attacks.
+Drain_Bless	Absorb Bless attacks.
+Drain_Curse	Absorb Curse attacks.
+Sharp_Student	Lower odds of receiving critical hit.	Zouchouten*
+Firm_Stance	Half all incoming damage by sacrificing evasion completely.
+Brush_of_Vanity&	Nullifies wearer's weaknesses.
+
+Dodge_Phys	Double evasion rate against Physical attacks.
+Dodge_Fire	Double evasion rate against Fire attacks.
+Dodge_Ice	Double evasion rate against Ice attacks.
+Dodge_Elec	Double evasion rate against Electric attacks.
+Dodge_Wind	Double evasion rate against Wind attacks.
+Dodge_Psy	Double evasion rate against Psy attacks.
+Dodge_Nuke	Double evasion rate against Nuclear attacks.
+Dodge_Bless	Double evasion rate against (non instant death) Bless attacks.
+Dodge_Curse	Double evasion rate against (non instant death) Curse attacks.
+Evade_Phys	Triple evasion rate against Physical attacks.
+Evade_Fire	Triple evasion rate against Fire attacks.
+Evade_Ice	Triple evasion rate against Ice attacks.
+Evade_Elec	Triple evasion rate against Electric attacks.
+Evade_Wind	Triple evasion rate against Wind attacks.
+Evade_Psy	Triple evasion rate against Psy attacks.
+Evade_Nuke	Triple evasion rate against Nuclear attacks.
+Evade_Bless	Triple evasion rate against (non instant death) Bless attacks.
+Evade_Curse	Triple evasion rate against (non instant death) Curse attacks.
+Angelic_Grace	Double evasion rate against all magical attacks except Hama/Mudo/Almighty.	Sandalphon*
+Climate_Decorum	Double evasion against all attacks under rainy day or special weather warning.
+Ali_Dance	Half hit rate of all incoming attacks.
+Last_Stand	Greatly decreases Accuracy of all foes’ attacks except Almighty when surrounded.
+Samurai_Spirit&	Increases Evasion from Critical and magical attacks.
+Hide&		Decreases chance of being targeted by foes.
+
+Regenerate_1	Restore 2% of max HP each turn in battle.	Kin-K*
+Regenerate_2	Recover 4% of max HP each turn in battle.	Koumokuten*
+Regenerate_3	Recover 6% of max HP each turn in battle.	Quetzalcoatl*
+Invigorate_1	Recover 3 SP each turn in battle.	Clotho*
+Invigorate_2	Recover 5 SP each turn in battle.	Barong*
+Invigorate_3	Recover 7 SP each turn in battle.	Throne*
+Fast_Heal	Half the time needed to recover from ailments.	Fortuna*
+Insta-Heal	Recover from an ailment in 1 turn.	Messiah_Picaro*
+Divine_Grace	Effects of healing magic are increased by 50%.	Kikuri-Hime*
+Soul_Touch&	Recover 5 SP when performing Baton Pass.
+Soul_Chain	Recover 20 SP when performing Baton Pass.
+Heat_Up		Random chance to recover 5% HP and 10 SP.
+Holy_Embrace	Recover 25% of max HP each turn in battle (Unique to Maria).
+Holy_Whisper	Recover 15% max HP and SP each turn in battle (Unique to Maria).
+
+Life_Bonus&	Increases max HP by 10%.
+Life_Gain&	Increases max HP by 20%.
+Life_Surge&	Increases max HP by 30%.
+Life_Rise&	Increases max HP by 40%.
+Life_Boost&	Increases max HP by 20.
+Mana_Bonus&	Increases max SP by 10%.
+Mana_Gain&	Increases max SP by 20%.
+Mana_Surge&	Increases max SP by 30%.
+
+Attack_Master	Automatic Tarukaja at the start of battle.
+Defense_Master	Automatic Rakukaja at the start of battle.
+Speed_Master	Automatic Sukukaja at the start of battle.
+Auto-Mataru	Automatic Matarukaja at the start of battle (Overwrites Attack Master).	Ariadne_Picaro*
+Auto-Maraku	Automatic Marakukaja at the start of battle (Overwrites Defense Master).
+Auto-Masuku	Automatic Masukukaja at the start of battle (Overwrites Speed Master).
+Heat_Up		Recover 5% HP and 10 SP at the start of preemptive turn.
+Endure		Survive one fatal blow with 1 HP remaining.	Hecatoncheires*
+Survival_Trick	Survive one instant death attack with 1 HP remaining.	Abaddon^
+Enduring_Soul	Survive one fatal blow with HP completely recovered.	Attis*
+
+Growth_1	Persona gains 1/4 EXP while inactive.	Koppa_Tengu*
+Growth_2	Persona gains 1/2 EXP while inactive.	Thoth*
+Growth_3	Persona gains full EXP even while inactive.	Izanagi_Picaro*
+Life_Aid	Recover 8% HP and SP after victory.	Lakshmi*
+Victory_Cry	Fully recover HP and SP after victory.
+Money_Boost&	Party gains 15% more money after victory.
++15%_EXP&	Wearer gains 15% more EXP after victory.
+<END>
